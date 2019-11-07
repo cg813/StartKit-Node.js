@@ -59,7 +59,7 @@ Feel free to send me, share this with others or make a pull request
 
 ## Demo
 
-A demo of this API is located at: <https://api-demo.daniel-avellaneda.com>
+A demo of this API is located at: <https://github.com/Sareth-S/Node.js-Project>
 
 ### Login credentials
 
