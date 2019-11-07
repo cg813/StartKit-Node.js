@@ -15,19 +15,15 @@ This project is created to help other developers create a **basic REST API in an
 
 ## Buy me a coffee
 
-Hi! I'm Daniel Avellaneda, I'm an open source enthusiast and devote my free time to building projects in this field.
+Hi! I'm Sareth Svay, I'm an open source enthusiast and devote my free time to building projects in this field.
 
-I'm the creator and maintainer of [node-express-mongodb-jwt-rest-api-skeleton](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/blob/master/README.md) and [vue-skeleton-mvp](https://github.com/davellanedam/vue-skeleton-mvp/blob/master/README.md)
-
-These projects are a "starter web app kit" for any developer who wants to build their own app without starting from scratch: API + Frontend
+I'm the creator and maintainer of [node-express-mongodb-jwt-rest-api-skeleton]
+This project are a "starter web app kit" for any developer who wants to build their own app without starting from scratch: API + Frontend
 
 Both projects have been downloaded thousands of times by web developers around the world.
 
 I'm doing my best to provide you a good experience when using my apps, so if you like what I'm doing and wish to say "thanks!", please buy me a coffee :coffee:
-
-<a href="https://www.buymeacoffee.com/muGHf41NT" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-Feel free to send me a tweet <https://twitter.com/davellanedam>, share this with others or make a pull request
+Feel free to send me, share this with others or make a pull request
 
 ## Features
 
