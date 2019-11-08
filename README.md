@@ -71,11 +71,6 @@ password: `12345`
 [API documentation](###api-documentation)  
 [Postman API example collection](###postman-api-example-collection)  
 If you want to test it don´t forget to change the server variable to:  
-`https://api-demo.daniel-avellaneda.com`
-
-Demo is also linked to a VueJS project that shows how this API can be integrated to a frontend that is able to consume an API.  
-Repo is here: <https://github.com/davellanedam/vue-skeleton-mvp>  
-Running demo is here: <https://vue-demo.daniel-avellaneda.com>
 
 ## How to install
 
